@@ -169,22 +169,6 @@ using sprites taken from [PokéSprite](https://msikma.github.io/pokesprite/) as 
 base and converted to unicode sprites using custom scripts that can be found in
 [this repo](https://gitlab.com/phoneybadger/pokemon-generator-scripts)
 
-## Similar projects
-`pokemon-colorscripts` is not the exclusive nor the first program to print out
-pokemon sprites to the terminal. You can check out these really cool projects as
-well
-- [pokeget](https://github.com/talwat/pokeget)
-- [pokeshell](https://github.com/acxz/pokeshell)
-- [krabby](https://github.com/yannjor/krabby)
-
-An older more minimal shell script version of the project is now being maintained
-as
-
-- [pokescript](https://github.com/acxz/pokescript)
-
-a much more comprehensive comparison of the different projects can be found on
-the [Pokeshell Readme](https://github.com/acxz/pokeshell#similar-projects)
-
 ## Credits
 - All the pokemon designs, names, branding etc. are trademarks of [The Pokémon Company](https://pokemon.com)
 - The box art sprites were taken from the amazing [PokéSprite](https://msikma.github.io/pokesprite/) database
