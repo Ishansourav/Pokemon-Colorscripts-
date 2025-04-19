@@ -174,7 +174,7 @@ base and converted to unicode sprites using custom scripts that can be found in
 - The box art sprites were taken from the amazing [PokéSprite](https://msikma.github.io/pokesprite/) database
 
 ## Author
-Phoney badger:[
+Sourav Ishan:
 https://gitlab.com/Ishansourav
 
 ## License
