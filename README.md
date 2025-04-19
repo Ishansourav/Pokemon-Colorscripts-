@@ -190,8 +190,8 @@ the [Pokeshell Readme](https://github.com/acxz/pokeshell#similar-projects)
 - The box art sprites were taken from the amazing [PokéSprite](https://msikma.github.io/pokesprite/) database
 
 ## Author
-Phoney badger:
-https://gitlab.com/phoneybadger
+Phoney badger:[
+https://gitlab.com/Ishansourav
 
 ## License
 The MIT License (MIT)
